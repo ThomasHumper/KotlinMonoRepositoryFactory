@@ -22,3 +22,6 @@ application {
 kotlin {
     jvmToolchain(21)
 }
+{
+  "status": "ok"
+}
